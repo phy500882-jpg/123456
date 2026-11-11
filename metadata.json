@@ -1,0 +1,7 @@
+{
+  "name": "천안시 시민 AI강사 양성 아카데미",
+  "description": "배움에서 나눔으로! 천안시민을 위한 생성형 AI 전문 강사 양성 과정 공식 홍보 및 수강신청 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
